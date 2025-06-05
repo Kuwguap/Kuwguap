@@ -1,9 +1,3 @@
-# Hi there 👋, I'm Glenn 
-### About Me
-I'm Glenn Rodney, a highly motivated and detail-oriented Computer Science student from Accra, Ghana, with a strong foundation in programming and a rapidly expanding expertise in cybersecurity. I have proven experience in web penetration testing through freelance engagements on HackerOne, where I've identified critical vulnerabilities (including SQL Injection, XSS, and IDOR flaws) and contributed to enhanced digital security for global clients.
-
-I possess a comprehensive understanding of ethical hacking (CEH v.12), advanced Python scripting for security, and foundational cybersecurity principles. I'm eager to apply robust analytical and problem-solving skills to protect digital assets and contribute to a secure technological environment.
-
 ### 💻 Tech Stack:
 <p align="left">
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"></a>
@@ -48,11 +42,6 @@ I possess a comprehensive understanding of ethical hacking (CEH v.12), advanced 
     <img src="https://github-profile-trophy.vercel.app/?username=kuwguap&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
   </a>
 </p>
-
-### 🌱 Current Focus
-* Seeking challenging opportunities as a Cybersecurity Analyst or Incident Response Analyst. 
-* Continuously honing my skills in advanced web penetration testing techniques and incident response procedures. 
-* Expanding my portfolio with personal projects at the intersection of software development and cybersecurity.
 
 ### 📫 How to Reach Me:
 <p align="left">
