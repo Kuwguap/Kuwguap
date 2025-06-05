@@ -32,6 +32,12 @@
   </a>
 </p>
 
+### 👁️ Profile Views:
+<p align="left"> <a href="https://komarev.com/ghpvc/?username=kuwguap">
+    <img src="https://komarev.com/ghpvc/?username=kuwguap&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views"/>
+  </a>
+</p>
+
 ### 🔥 GitHub Streak Stats:
 <p align="center"> <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=kuwguap&theme=radical&hide_border=true&card_width=450" alt="GitHub Streak"/>
