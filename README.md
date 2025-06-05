@@ -21,6 +21,10 @@
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+<p align="left"> <a href="https://komarev.com/ghpvc/?username=kuwguap">
+    <img src="https://komarev.com/ghpvc/?username=kuwguap&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views"/>
+  </a>
+</p>
 
 ### 📊 My GitHub Stats:
 <p align="center">
@@ -32,11 +36,6 @@
   </a>
 </p>
 
-### 👁️ Profile Views:
-<p align="left"> <a href="https://komarev.com/ghpvc/?username=kuwguap">
-    <img src="https://komarev.com/ghpvc/?username=kuwguap&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views"/>
-  </a>
-</p>
 
 ### 🔥 GitHub Streak Stats:
 <p align="center"> <a href="https://git.io/streak-stats">
